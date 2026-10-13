@@ -5,4 +5,6 @@
   </packageImport>
   <packagedElement xmi:type="uml:Actor" xmi:id="_pwiuwMb0EfGezNmGoi0tEg" name="Actor2"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_VrZTgMb2EfGezNmGoi0tEg" name="UseCase3"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_GospAMb5EfGezNmGoi0tEg" name="UseCase4"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_G9gbYMb5EfGezNmGoi0tEg" name="UseCase5"/>
 </uml:Model>
